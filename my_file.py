@@ -2,4 +2,6 @@ print("hi there")
 
 print("hi from another div")
 
-hi 
+hi something 
+ 
+ something
